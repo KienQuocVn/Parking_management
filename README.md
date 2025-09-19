@@ -22,18 +22,18 @@ A modern, responsive parking management dashboard built with Next.js, React, and
 
 1. Clone the repository
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 3. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
-\`\`\`
+```
 ├── app/
 │   ├── layout.tsx          # Root layout with Inter font and gradient background
 │   ├── page.tsx            # Main dashboard page with state management
@@ -50,7 +50,7 @@ A modern, responsive parking management dashboard built with Next.js, React, and
 │   └── parking.ts          # TypeScript type definitions
 └── docs/
     └── specifications.ts   # Original project specifications
-\`\`\`
+```
 
 ## Key Components
 
